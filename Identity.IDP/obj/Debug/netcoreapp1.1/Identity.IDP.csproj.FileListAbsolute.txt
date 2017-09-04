@@ -1,0 +1,10 @@
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\bin\Debug\netcoreapp1.1\Identity.IDP.deps.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\bin\Debug\netcoreapp1.1\Identity.IDP.runtimeconfig.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\bin\Debug\netcoreapp1.1\Identity.IDP.runtimeconfig.dev.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\bin\Debug\netcoreapp1.1\Identity.IDP.dll
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\obj\Debug\netcoreapp1.1\Identity.IDP.csproj.CoreCompileInputs.cache
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\obj\Debug\netcoreapp1.1\Identity.IDP.AssemblyInfo.cs
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\bin\Debug\netcoreapp1.1\Identity.IDP.pdb
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\obj\Debug\netcoreapp1.1\Identity.IDP.dll
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\obj\Debug\netcoreapp1.1\Identity.IDP.pdb
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\Identity.IDP\obj\Debug\netcoreapp1.1\Identity.IDP.csprojResolveAssemblyReference.cache

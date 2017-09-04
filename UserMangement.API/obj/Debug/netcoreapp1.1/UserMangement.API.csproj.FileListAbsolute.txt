@@ -1,0 +1,10 @@
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\bin\Debug\netcoreapp1.1\UserMangement.API.deps.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\bin\Debug\netcoreapp1.1\UserMangement.API.runtimeconfig.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\bin\Debug\netcoreapp1.1\UserMangement.API.runtimeconfig.dev.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\bin\Debug\netcoreapp1.1\UserMangement.API.dll
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\bin\Debug\netcoreapp1.1\UserMangement.API.pdb
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\obj\Debug\netcoreapp1.1\UserMangement.API.csproj.CoreCompileInputs.cache
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\obj\Debug\netcoreapp1.1\UserMangement.API.AssemblyInfo.cs
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\obj\Debug\netcoreapp1.1\UserMangement.API.dll
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\obj\Debug\netcoreapp1.1\UserMangement.API.pdb
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.API\obj\Debug\netcoreapp1.1\UserMangement.API.csprojResolveAssemblyReference.cache

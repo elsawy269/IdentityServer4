@@ -1,0 +1,7 @@
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\IDP.DAL\bin\Debug\netcoreapp1.1\IDP.DAL.deps.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\IDP.DAL\bin\Debug\netcoreapp1.1\IDP.DAL.dll
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\IDP.DAL\bin\Debug\netcoreapp1.1\IDP.DAL.pdb
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\IDP.DAL\obj\Debug\netcoreapp1.1\IDP.DAL.csproj.CoreCompileInputs.cache
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\IDP.DAL\obj\Debug\netcoreapp1.1\IDP.DAL.AssemblyInfo.cs
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\IDP.DAL\obj\Debug\netcoreapp1.1\IDP.DAL.dll
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\IDP.DAL\obj\Debug\netcoreapp1.1\IDP.DAL.pdb

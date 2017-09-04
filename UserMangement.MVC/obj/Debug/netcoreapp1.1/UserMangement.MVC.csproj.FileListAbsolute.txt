@@ -1,0 +1,9 @@
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.MVC\bin\Debug\netcoreapp1.1\UserMangement.MVC.deps.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.MVC\bin\Debug\netcoreapp1.1\UserMangement.MVC.runtimeconfig.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.MVC\bin\Debug\netcoreapp1.1\UserMangement.MVC.runtimeconfig.dev.json
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.MVC\bin\Debug\netcoreapp1.1\UserMangement.MVC.dll
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.MVC\obj\Debug\netcoreapp1.1\UserMangement.MVC.csproj.CoreCompileInputs.cache
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.MVC\obj\Debug\netcoreapp1.1\UserMangement.MVC.AssemblyInfo.cs
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.MVC\bin\Debug\netcoreapp1.1\UserMangement.MVC.pdb
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.MVC\obj\Debug\netcoreapp1.1\UserMangement.MVC.dll
+E:\Angular2Learing\CommonEnterpriseProject\ComplainMangement\UserMangement.MVC\obj\Debug\netcoreapp1.1\UserMangement.MVC.pdb
